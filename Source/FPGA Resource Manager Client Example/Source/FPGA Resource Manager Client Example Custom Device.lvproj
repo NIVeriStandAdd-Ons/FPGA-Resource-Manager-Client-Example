@@ -78,11 +78,6 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="add fpga mapping group.vi" Type="VI" URL="../../../../../FPGA-Resource-Manager-APIs/Source/System Definition/add fpga mapping group.vi"/>
-			<Item Name="add resource page.vi" Type="VI" URL="../../../../../FPGA-Resource-Manager-APIs/Source/System Definition/add resource page.vi"/>
-			<Item Name="find Relative VS Ref.vi" Type="VI" URL="../../../../../FPGA-Resource-Manager-APIs/Source/find Relative VS Ref.vi"/>
-			<Item Name="FPGA Settings.ctl" Type="VI" URL="../../../../../Source/Shared/FPGA Settings.ctl"/>
-			<Item Name="FPGA Settings.vi" Type="VI" URL="../../../../../Source/Shared/FPGA Settings.vi"/>
 			<Item Name="NationalInstruments.VeriStand.SystemStorage" Type="Document" URL="NationalInstruments.VeriStand.SystemStorage">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
